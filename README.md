@@ -1,0 +1,1 @@
+AlgoUSSD Offline Wallet
